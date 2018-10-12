@@ -16,6 +16,9 @@ Iimages
 ongoing
 pickles
 ```
+The presentation (Google Slides) is available:
+https://docs.google.com/presentation/d/1-FcZW7uhM7UijTC-Y49wl9x3XkuTs-KEBqioYQSgoQA/edit?usp=sharing
+
 The files are organized chronologically as I worked through the project. If a some resource path doesn't work, it is most likely because the file was moved into the ongoing/ directory during clean-up. Adding './ongoing/' to the path should fix it. 
 
 The most interesting accomplishement in this project was the invention of an approach for automating cleaning dataframe of NaN cells. That work is contained in 2.0 - 2.3. It is not completely automated yet, but I think could be with more work. 
